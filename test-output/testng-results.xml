@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-12T10:49:01Z" name="Default suite" finished-at="2020-03-12T10:49:54Z" duration-ms="53102">
+    <groups>
+    </groups>
+    <test started-at="2020-03-12T10:49:01Z" name="Default test" finished-at="2020-03-12T10:49:54Z" duration-ms="53102">
+      <class name="appium.demo.APPTest">
+        <test-method is-config="true" signature="ReporySetUp()[pri:0, instance:appium.demo.APPTest@4b44655e]" started-at="2020-03-12T10:49:00Z" name="ReporySetUp" finished-at="2020-03-12T10:49:01Z" duration-ms="354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReporySetUp -->
+        <test-method is-config="true" signature="Intilaization()[pri:0, instance:appium.demo.APPTest@4b44655e]" started-at="2020-03-12T10:49:01Z" name="Intilaization" finished-at="2020-03-12T10:49:12Z" duration-ms="11387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Intilaization -->
+        <test-method signature="JustLogin()[pri:0, instance:appium.demo.APPTest@4b44655e]" started-at="2020-03-12T10:49:12Z" name="JustLogin" finished-at="2020-03-12T10:49:50Z" duration-ms="38154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JustLogin -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:appium.demo.APPTest@4b44655e]" started-at="2020-03-12T10:49:50Z" name="TearDown" finished-at="2020-03-12T10:49:54Z" duration-ms="3531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="ReportTearDown()[pri:0, instance:appium.demo.APPTest@4b44655e]" started-at="2020-03-12T10:49:54Z" name="ReportTearDown" finished-at="2020-03-12T10:49:54Z" duration-ms="578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportTearDown -->
+      </class> <!-- appium.demo.APPTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
